@@ -6,6 +6,11 @@ using icons of the beer and for the web pages I use the HTML & CSS
 ## Introduction
  Build a REST API to manage beers with Node.js and Express. installed node.js, that is an experience in JavaScript, and some basic knowledge of HTML and Bootstrap.
  I will use a simple JavaScript array to store our data instead.
+ 
+ ## This is a built-in middleware function in Express. It parses incoming requests with JSON payloads and is based on body-parser.
+
+Returns middleware that only parses JSON and only looks at requests where the Content-Type header matches the type option. This parser accepts any Unicode encoding of the body and supports automatic inflation of gzip and deflate encodings.
+
 
 ## HTTP Request Types
 There are a few types of HTTP methods that I know before build a REST API. These are the methods that correspond to the CRUD tasks:
@@ -21,5 +26,7 @@ Note: Notice that you can use either POST or PUT to edit stored data. choose whe
 node.js 
 express.js
 HTML & CSS
+body-parser
+
 
 
