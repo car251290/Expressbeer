@@ -42,6 +42,10 @@ h1 {
     border: 1px solid #ddd;
 }
 
+.menu {
+    padding: 10px;
+}
+
 
 /* Style the navigation menu */
 
@@ -62,12 +66,17 @@ h1 {
 }
 
 #myMenu li a:hover {
-    background-color: white;
+    background-color: grey;
+}
+
+.btn {
+    float: right;
+    margin-right: 520px;
+    right: 20%;
 }
 
 .button {
     background-color: #4CAF50;
-    /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
