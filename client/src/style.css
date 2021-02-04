@@ -38,8 +38,12 @@ h1 {
     background-position: 1px;
     background-repeat: no-repeat;
     font-size: 16px;
-    padding: 10px 17px 12px 50px;
+    padding: 10px 17px 12px 45px;
     border: 1px solid #ddd;
+}
+
+.menu {
+    padding: 10px;
 }
 
 
@@ -62,12 +66,17 @@ h1 {
 }
 
 #myMenu li a:hover {
-    background-color: white;
+    background-color: grey;
+}
+
+.btn {
+    float: right;
+    margin-right: 520px;
+    right: 20%;
 }
 
 .button {
     background-color: #4CAF50;
-    /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -75,4 +84,5 @@ h1 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 12px;
 }

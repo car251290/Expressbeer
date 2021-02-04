@@ -5,6 +5,7 @@
     <title>A Beer project</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
 </head>
 
 <body>
@@ -13,22 +14,24 @@
     </div>
 
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search Beer.." title="Type in a category">
+    <div class="menu">
+        <ul id="myMenu">
+            <li><a href="#">Corona</a><img src="images/icons96-beer.png"></li>
+            <li><a href="#">Victoria</a><img src="images/icons96-beer.png"></li>
+            <li><a href="#">Island Brewing</a><img src="images/icons96-beer.png"></li>
+            <li><a href="#">Dog walk beer</a><img src="images/icons96-beer.png"></li>
+            <li><a href="#">Budweiser beer</a><img src="images/icons96-beer.png"></li>
+        </ul>
 
-    <ul id="myMenu">
-        <li><a href="#">Corona</a></li>
-        <li><a href="#">Victoria</a></li>
-        <li><a href="#">Island Brewing</a></li>
-        <li><a href="#">Dog walk beer</a></li>
-        <li><a href="#">Budweiser beer</a></li>
+    </div>
 
-    </ul>
-
-    <button class="button" onclick="button-cheers">
-             Beer History press me!! 
-        </button>
+    <div class="btn">
+        <button class="button" onclick="loadBeers()">
+            Beer History press me!! 
+       </button>
+    </div>
 
     <script src="App.js"></script>
-
 
     <script>
         function myFunction() {
