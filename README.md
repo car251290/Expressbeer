@@ -1,7 +1,9 @@
 # expressbeer
 A WEB PAGE OF BEER YES BEER 
-A JavaScript project to use the RestAPI And displey information about beers, using a search for the name of the beer and display name and id of the beers
+A JavaScript project to use the RestAPIsAnd displey information about beers, using a search for the name of the beer and display name and id of the beers
 using icons of the beer and for the web pages I use the HTML & CSS
+
+Will get post update delate.
 
 ## Introduction
  Build a REST API to manage beers with Node.js and Express. installed node.js, that is an experience in JavaScript, and some basic knowledge of HTML and Bootstrap.
