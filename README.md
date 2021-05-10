@@ -42,10 +42,10 @@ Node.js body parsing middleware.
 Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
 Learn about the anatomy of an HTTP transaction in Node.js.
 
-POST: Used to submit data, typically used to create new entities or edit already existing entities
-GET: Used to request data from the server, typically used to read data
-PUT: Used to completely replace the resource with the submitted resource, typically used to update data
-DELETE: Used to delete an entity from the server
+# POST: Used to submit data, typically used to create new entities or edit already existing entities
+# GET: Used to request data from the server, typically used to read data
+# PUT: Used to completely replace the resource with the submitted resource, typically used to update data
+# DELETE: Used to delete an entity from the server
 
 Note: Notice that you can use either POST or PUT to edit stored data. choose whether you even want to use PUT since it can be omitted fully. Though, stay consistent with the HTTP verbs you use. I am  using POST for an update, "I don't use the PUT method at all".
 
