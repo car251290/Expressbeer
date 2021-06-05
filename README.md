@@ -50,10 +50,10 @@ Learn about the anatomy of an HTTP transaction in Node.js.
 Note: Notice that you can use either POST or PUT to edit stored data. choose whether you even want to use PUT since it can be omitted fully. Though, stay consistent with the HTTP verbs you use. I am  using POST for an update, "I don't use the PUT method at all".
 
 ## technologies 
-node.js 
-express.js
-HTML & CSS
-body-parser
+### node.js 
+### express.js
+### HTML & CSS
+### body-parser
 
 
 
