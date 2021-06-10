@@ -5,9 +5,7 @@ using icons of the beer and for the web pages I use the HTML & CSS
 
 ## MVC model
 
-There are a lot of software architectures out there, but Model View Controller is the most popular and widely used. It reduces the code complexity and makes the software easily understandable.
-
-Will get post update delate.
+There are a lot of software architectures out there, but Model View Controller is the most popular and widely used. It reduces the code complexity and makes the software easily understandable.Will get post update delate.
 
 ## Introduction
  Build a REST API to manage beers with Node.js and Express. installed node.js, that is an experience in JavaScript, and some basic knowledge of HTML and Bootstrap.
@@ -40,7 +38,6 @@ Returns middleware that only parses json and only looks at requests where the Co
 There are a few types of HTTP methods that I know before build a REST API. These are the methods that correspond to the CRUD tasks:
 Node.js body parsing middleware.
 Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
-Learn about the anatomy of an HTTP transaction in Node.js.
 
 ### POST: Used to submit data, typically used to create new entities or edit already existing entities
 ### GET: Used to request data from the server, typically used to read data
