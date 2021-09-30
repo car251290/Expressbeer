@@ -3,9 +3,6 @@ A WEB PAGE OF BEER YES BEER
 A JavaScript project to use the RestAPIsAnd displey information about beers, using a search for the name of the beer and display name and id of the beers
 using icons of the beer and for the web pages I use the HTML & CSS
 
-## MVC model
-
-There are a lot of software architectures out there, but Model View Controller is the most popular and widely used. It reduces the code complexity and makes the software easily understandable.Will get post update delate.
 
 ## Introduction
  Build a REST API to manage beers with Node.js and Express. installed node.js, that is an experience in JavaScript, and some basic knowledge of HTML and Bootstrap.
@@ -51,6 +48,13 @@ Note: Notice that you can use either POST or PUT to edit stored data. choose whe
 ### express.js
 ### HTML & CSS
 ### body-parser
+
+# Language 
+## React(JS)
+
+# Requirements
+* Visual Studio
+
 
 
 
