@@ -45,12 +45,13 @@ Note: Notice that you can use either POST or PUT to edit stored data. choose whe
 
 ## technologies 
 ### node.js 
+### React.js
 ### express.js
 ### HTML & CSS
 ### body-parser
 
 # Language 
-## React(JS)
+## JavaScript
 
 # Requirements
 * Visual Studio
